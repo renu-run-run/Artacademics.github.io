@@ -1,0 +1,82 @@
+
+
+a{
+    color: cornsilk;
+    padding: 10px;
+}
+#para1{
+    font-size: 40px;
+     padding: 80px;
+     color: rgb(255, 255, 255);
+    
+}
+
+#para{
+   font-size: 30px;
+   margin: 150px;
+   margin-top: 120px;
+   padding-left:400px;
+   opacity: 0.7;
+
+}
+
+
+#special{
+    height: 500px;
+    width: 500px;
+    background-color: brown;
+    position: absolute;
+    top: 130px;
+    bottom: 100px;
+    left: 30px;
+    box-shadow: rgb(150, 150, 150) 5px 5px 10px 5px;
+    
+
+}
+
+#fixed{
+    height: 10%;
+    width: 100%;
+    background-color: rgb(28, 53, 38);
+    position: fixed;
+    top: 0px;
+    left: 0px;
+  
+
+}
+#brand{
+    width: 30%;
+
+    float: left;
+    padding-left: 50px;
+    color: rgb(255, 255, 255);
+}
+#menu{
+    width: 70%;
+    height: 10%;
+    padding-top: 30px;
+    margin-left: 900px;
+    
+    
+    }
+
+#fixed1{
+    height: 10%;
+    width: 17%;
+    background-color: rgb(70, 55, 133);
+    position: fixed;
+    bottom: 0px;
+    right: 0px;
+    
+
+}
+
+#relative{
+    height: 500px;
+    width: 1000px;
+    margin: auto;
+    background-color: chartreuse;
+    position: relative;
+    top: -100px;
+    box-shadow: rgb(201, 144, 255) 5px 5px 10px 5px;
+}
